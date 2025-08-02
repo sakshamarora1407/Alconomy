@@ -1,20 +1,6 @@
 <div align="center">
-  <br />
-
-  <br />
-
-  <h3 align="center">Alconomy</h3>
+  <h3 style="font-size=38px" align="center">Alconomy : An AI Powered Financial Tracker</h3>
 </div>
-
-## 📋 Table of Contents
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🚀 [Quick Start](#quick-start)
-5. 🛠️ [Environment Setup](#environment-setup)
-6. 🌐 [Deployment](#deployment)
-
 ---
 
 ## 🤖 Introduction
