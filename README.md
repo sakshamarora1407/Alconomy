@@ -1,11 +1,11 @@
 <div align="center">
-  <h3 style="font-size=38px" align="center">Alconomy : An AI Powered Financial Tracker</h3>
+  <h3 style="font-size=38px" align="center">AIconomy : An AI Powered Financial Tracker</h3>
 </div>
 ---
 
 ## 🤖 Introduction
 
-**Alconomy** is a smart financial web app that helps users manage their budgets and expenses with AI-powered insights. Hosted on [Vercel](https://alconomy-5sbwqwc1j-sakshamarora1407s-projects.vercel.app), Alconomy uses the **Gemini API** to provide personalized financial advice based on your spending habits, budget goals, and income.
+**AIconomy** is a smart financial web app that helps users manage their budgets and expenses with AI-powered insights. Hosted on [Vercel](https://alconomy.vercel.app), Alconomy uses the **Gemini API** to provide personalized financial advice based on your spending habits, budget goals, and income.
 
 The platform features secure user authentication through **Clerk**, offering personalized dashboards for each user and seamless budget tracking.
 
