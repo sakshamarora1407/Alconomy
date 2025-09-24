@@ -17,7 +17,7 @@ function Hero() {
             <h1 className="text-4xl font-semibold text-black dark:text-white">
               Change how you Track your Expenses! <br />
               <span className="text-4xl md:text-[6rem] text-blue-800 font-bold leading-none">
-                Now with a personalized Finnance Assitant!
+                with AIconomy
               </span>
             </h1>
           </>
