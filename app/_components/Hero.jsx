@@ -15,9 +15,9 @@ function Hero() {
         titleComponent={
           <>
             <h1 className="text-4xl font-semibold text-black dark:text-white">
-              Manage your Money with AI-Driven Personal <br />
+              Change how you Track your Expenses! <br />
               <span className="text-4xl md:text-[6rem] text-blue-800 font-bold leading-none">
-                Finance Tracker
+                Now with a personalized Finnance Assitant!
               </span>
             </h1>
           </>
